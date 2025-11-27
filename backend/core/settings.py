@@ -176,6 +176,10 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # backend/core/settings.py ke last mein add karein
 
+
+RAZORPAY_KEY_ID = os.environ.get("RAZORPAY_KEY_ID", "")
+RAZORPAY_KEY_SECRET = os.environ.get("RAZORPAY_KEY_SECRET", "")
+
 # RAZORPAY_KEY_ID = "rzp_test_YOUR_KEY_HERE"  # Yahan apni Key ID dalein
 # RAZORPAY_KEY_SECRET = "YOUR_SECRET_HERE"    # Yahan Secret dalein
 
