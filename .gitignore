@@ -1,0 +1,16 @@
+# --- Python/Django ---
+venv/
+__pycache__/
+*.pyc
+db.sqlite3
+.env
+
+# --- JavaScript/Node (Frontend) ---
+node_modules/
+.next/
+dist/
+build/
+.DS_Store
+
+# --- VS Code ---
+.vscode/
