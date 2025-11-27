@@ -179,9 +179,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # RAZORPAY_KEY_ID = "rzp_test_YOUR_KEY_HERE"  # Yahan apni Key ID dalein
 # RAZORPAY_KEY_SECRET = "YOUR_SECRET_HERE"    # Yahan Secret dalein
 
-RAZORPAY_KEY_ID = "rzp_test_R9QCwsG1AbNmn6"
-RAZORPAY_KEY_SECRET = "k7s7YneboXuyVqbn3oBMyzZx"
-
 
 
 
